@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Aaronfloyd]]></title>
         <description><![CDATA[Aaronfloyd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aaronfloyd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 21:11:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 26 Oct 2015 21:14:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aaronfloyd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Profound]]></title>
             <description><![CDATA[<article><h1>Profound</h1><p>Intro post</p></article>]]></description>
-            <link>undefinedprofound/index.html</link>
+            <link>https://thegrid.ai/aaronfloyd/profound/index.html</link>
             <guid isPermaLink="false">65063179-2263-4621-8af8-8db18bfe6a2f</guid>
-            <pubDate>Mon, 26 Oct 2015 21:11:10 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2015 21:13:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
