@@ -1,7 +1,7 @@
 name: Aaronfloyd
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.1863406
+layout_spectrum: 0.22857
+typography_spectrum: 0.26857
 collections:
   - index:
       path: /
@@ -34,7 +34,7 @@ color:
     - '#9C315A'
     - '#023AD7'
   brandStrength: 0.2916219
-  lightness: 0.5
+  lightness: 0.4375
   saturation: 1
   rhythmicContrast: 1
 purpose: []
